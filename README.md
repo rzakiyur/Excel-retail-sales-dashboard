@@ -87,4 +87,5 @@ This dashboard offers several critical benefits:
 
 ---
 ### Screenshot
-![image](https://github.com/user-attachments/assets/98032b47-5819-4465-9dac-9513f559795b)
+![image](https://github.com/user-attachments/assets/2a478c61-0f17-4f17-8f0b-6eebd9108cac)
+
