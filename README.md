@@ -86,3 +86,5 @@ This dashboard offers several critical benefits:
 - **Basic understanding of Excel formulas, pivot tables, and charts**
 
 ---
+### Screenshot
+![image](https://github.com/user-attachments/assets/98032b47-5819-4465-9dac-9513f559795b)
